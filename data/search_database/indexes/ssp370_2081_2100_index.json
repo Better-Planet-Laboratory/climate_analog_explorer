@@ -1,9 +1,9 @@
 {
-  "database": "/Users/gubr4186/Documents/Projects/climate_search/data/search_database/ssp370_2081_2100_search.h5",
+  "database": "data/search_database/ssp370_2081_2100_search.h5",
   "period": "ssp370_2081_2100",
   "n": 288633,
   "dim": 64,
   "metric": "cosine/IP",
   "backend": "numpy",
-  "index": "/Users/gubr4186/Documents/Projects/climate_search/data/search_database/indexes/ssp370_2081_2100_embeddings.npy"
+  "index": "data/search_database/indexes/ssp370_2081_2100_embeddings.npy"
 }
