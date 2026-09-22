@@ -44,8 +44,10 @@ DEFAULT_N_CANDIDATES = 250
 MAX_ADAPTIVE_CANDIDATES = 5000
 DEFAULT_GEO_EXCLUSION_KM = 1000
 DEFAULT_ANALOG_SEPARATION_KM = 150
-GEOCODER_USER_AGENT = "better-planet-lab-climate-analog-explorer"
-
+GEOCODER_USER_AGENT = (
+    "BetterPlanetLab-ClimateAnalogExplorer/1.0 "
+    "(https://github.com/Better-Planet-Laboratory/climate_analog_explorer)"
+)
 # ============================================================
 # Vector tile server
 # ============================================================

@@ -9,3 +9,4 @@ scipy>=1.11
 torch>=2.2
 pycountry>=23.12
 reverse_geocoder>=1.5.1
+requests>=2.31,<3
