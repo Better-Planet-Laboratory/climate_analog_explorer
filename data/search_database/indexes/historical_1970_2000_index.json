@@ -1,0 +1,9 @@
+{
+  "database": "/Users/gubr4186/Documents/Projects/climate_search/data/search_database/historical_1970_2000_search.h5",
+  "period": "historical_1970_2000",
+  "n": 288633,
+  "dim": 64,
+  "metric": "cosine/IP",
+  "backend": "numpy",
+  "index": "/Users/gubr4186/Documents/Projects/climate_search/data/search_database/indexes/historical_1970_2000_embeddings.npy"
+}

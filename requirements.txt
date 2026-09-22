@@ -1,0 +1,11 @@
+streamlit>=1.40,<2
+h5py>=3.10
+numpy>=1.26,<3
+pandas>=2.1
+pyarrow>=15
+plotly>=5.18
+pydeck>=0.9
+scipy>=1.11
+torch>=2.2
+pycountry>=23.12
+reverse_geocoder>=1.5.1
