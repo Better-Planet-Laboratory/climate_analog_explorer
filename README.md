@@ -10,5 +10,4 @@ Run locally from this directory:
 
 Large `.h5` and `.npy` files are configured for Git LFS in `.gitattributes`.
 
-The deployment databases intentionally omit `pooled384`, `row_off`, and
-`col_off`. The original research databases are unchanged.
+App available at https://climate-explorer.streamlit.app
